@@ -129,7 +129,6 @@ Le dashboard final permet de :
 - `google-sheets/` : logique de nettoyage et préparation MVP
 - `sql/` : requêtes BigQuery
 - `dashboard/` : présentation du dashboard
-- `docs/images/` : captures du projet
 
 ---
 
