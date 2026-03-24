@@ -167,7 +167,7 @@ J’ai ainsi transformé une source open data brute en un outil d’aide à la d
 ## Aperçu du dashboard
 
 
-![Dashboard final](docs/images/dashboard_final.png)
+![Dashboard final](dashboard/dashboard_final.png)
 
 ---
 
